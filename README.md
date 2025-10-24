@@ -48,6 +48,8 @@ plt.show()
 
 
 ### Tabular Column:
+![WhatsApp Image 2025-10-24 at 19 36 35_900f1511](https://github.com/user-attachments/assets/031f2bc8-9218-4494-9018-9b6dc941085f)
+
 
 ### Algorithm:
 Initialize Parameters:
